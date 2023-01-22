@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NewsKaKeeda/static/css/main.2feda554.css",
+    "main.js": "/NewsKaKeeda/static/js/main.e4694bb4.js",
+    "static/js/787.998b4c01.chunk.js": "/NewsKaKeeda/static/js/787.998b4c01.chunk.js",
+    "static/media/Settings.gif": "/NewsKaKeeda/static/media/Settings.db7b6f6007565ae3caef.gif",
+    "static/media/Spinner-3.gif": "/NewsKaKeeda/static/media/Spinner-3.7df2ff08665fbdd87569.gif",
+    "index.html": "/NewsKaKeeda/index.html",
+    "main.2feda554.css.map": "/NewsKaKeeda/static/css/main.2feda554.css.map",
+    "main.e4694bb4.js.map": "/NewsKaKeeda/static/js/main.e4694bb4.js.map",
+    "787.998b4c01.chunk.js.map": "/NewsKaKeeda/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2feda554.css",
+    "static/js/main.e4694bb4.js"
+  ]
+}
